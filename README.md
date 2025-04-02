@@ -1,4 +1,4 @@
-# 🦾 AI-Fusion
+# 🤖 AI-Fusion
 
 🌟 AI Models Documentation 🌟
 
